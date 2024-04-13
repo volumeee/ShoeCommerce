@@ -8,5 +8,5 @@ aplikasi belanja sepatu sederhana menggunakan bahasa Kotlin. Proyek ini akan mem
 
 ## Source
 
-- [UiLover Android]([https://www.youtube.com/@UiLover])
+- [UiLover Android](https://www.youtube.com/@UiLover)
 
