@@ -6,7 +6,7 @@ aplikasi belanja sepatu sederhana menggunakan bahasa Kotlin. Proyek ini akan mem
 ![ShoeCommerce](https://github.com/volumeee/ShoeCommerce/blob/master/showcase.gif?raw=true)
 
 
-## Source
+## Source Remake
 
 - [UiLover Android](https://www.youtube.com/@UiLover)
 
